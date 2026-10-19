@@ -21,5 +21,5 @@ def add_name(e):
     # Displays
     display(f'Congratulations {fname} {lname}! Welcome to the OBMC Social Studies Club.', target='output')
 
-    display(f'List of members: {members}. Total number of members: {len(members)}', target='output')
+    display(f'List of members: {members}', target='output')
     display(f'Total number of members: {len(members)}', target='output')
